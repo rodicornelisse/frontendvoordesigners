@@ -27,4 +27,4 @@ Onderstaande feedback van Joppa heb ik genegeerd. Ik heb besloten om dit niet te
 ## Kritische houding
 Ik vond de keuzes uit de opdrachten prima. Ik ben dit keer voor een gemiddeld opdracht gegaan, omdat ik dit keer wel een opdracht wou laten slagen. Dit ook gelukt!
 
-[Bekijk opdracht 2](https://rodicornelisse.github.io/frontendvoordesigners/opdracht1/)
+[Bekijk opdracht 2](https://rodicornelisse.github.io/frontendvoordesigners/opdracht2/)
