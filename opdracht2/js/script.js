@@ -125,7 +125,6 @@
             yDown = null;
         }
 
-
     }
 
     [].slice.call(document.querySelectorAll('.cd-slider')).forEach( function(item) {
