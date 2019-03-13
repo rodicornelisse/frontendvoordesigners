@@ -3,9 +3,8 @@
 }
 
 html {
-    font-size: -moz-calc(4px + 0.45vw);
-    font-size: -webkit-calc(4px + 0.45vw);
-    font-size: calc(4px + 0.45vw);
+    font-size:50%;
+
 }
 
 body {
@@ -22,7 +21,7 @@ a {
     outline: 0;
 }
 
-/* Primary Style
+/* hoofd Style
 --------------------------------*/
 
 main {
@@ -35,16 +34,24 @@ header li{
     list-style: none;
 }
 
-header li h1 {
+header h1 {
     font-weight: 900;
-    font-size: 8em;
+    font-size: 10rem;
+    margin-bottom: 0px;
+}
+
+header p {
+    font-weight: 600;
+    font-size: 2rem;
+    margin: ;
+
 }
 
 .text {
     font-size: 2rem;
     padding: 2rem 0;
-    -moz-columns: 3;
-    -webkit-columns: 3;
+    columns: 3;
+    columns: 3;
     columns: 3;
 }
 
@@ -52,16 +59,14 @@ header li h1 {
     margin-bottom: 2rem;
 }
 
-@media screen and (max-width: 800px) {
-    header ul li:not(:nth-child(4)) {
-        display: none;
-    }
-    header ul li:nth-child(4) {
-        width: 100%;
-    }
+.text h3{
+    font-size: 3rem;
+    margin: auto;
+    text-decoration: underline;
 }
 
-/* Slider Style
+
+/* Carousel Style
 --------------------------------------*/
 
 .cd-slider {

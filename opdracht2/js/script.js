@@ -69,9 +69,6 @@
             autoUpdate = true;
         });
 
-        setInterval(function() {
-            if (autoUpdate) navigate('right');
-        },timeTrans);
 
         prevbtn.addEventListener('click', function() {
             navigate('left');
